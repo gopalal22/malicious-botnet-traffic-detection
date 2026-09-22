@@ -1,0 +1,6 @@
+model,accuracy,precision,recall,f1_score
+Decision Tree,,,,
+Random Forest,,,,
+AdaBoost,,,,
+XGBoost,,,,
+LightGBM,,,,
