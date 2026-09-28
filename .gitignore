@@ -2,3 +2,7 @@
 __pycache__/
 *.pyc
 cic.csv
+data/X_train_final.csv
+data/X_test_final.csv
+data/y_train_final.csv
+data/y_test_final.csv

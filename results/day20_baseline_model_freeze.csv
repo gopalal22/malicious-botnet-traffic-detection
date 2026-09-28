@@ -1,0 +1,6 @@
+Model,Model_File,Status
+Decision Tree,../models/decision_tree_final_processed.joblib,FROZEN
+Random Forest,../models/random_forest_final_processed.joblib,FROZEN
+AdaBoost,../models/adaboost_final_processed.joblib,FROZEN
+XGBoost,../models/xgboost_final_processed.joblib,FROZEN
+LightGBM,../models/lightgbm_final_processed.joblib,FROZEN
