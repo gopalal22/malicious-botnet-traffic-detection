@@ -1,0 +1,7 @@
+Analysis,Value
+Raw CIC dataset columns,80
+Final processed dataset columns,59
+Raw feature columns,78
+Final feature columns,58
+Target columns,1
+Raw columns not represented in final feature set,21
