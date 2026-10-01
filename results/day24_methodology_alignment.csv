@@ -1,0 +1,9 @@
+Stage,Status
+Data preparation,Completed
+Model training,Completed
+Prediction,Completed
+Evaluation,Completed
+Baseline verification,Completed
+Baseline freeze,Completed
+Algorithm comparison,Completed
+Future tuning,Planned
